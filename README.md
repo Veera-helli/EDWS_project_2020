@@ -8,3 +8,4 @@
   
 <h2>Basic Idea</h2>
 <p>A museum/gallery visitor tracker website that is used together with visitor tracker devices. The website is used to initialize, record and archive visitor tracker data.</p>
+<p>The course was moved to remote teaching half way through the spring semester which is why we were not able to connect the website with a physical electronic prototype (which had been the goal initially). </p>
