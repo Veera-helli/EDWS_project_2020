@@ -1,5 +1,6 @@
 <h1> Electronics and design workshop course project web interface </h1>
 <h4>Spring 2020</h4>
+<p>Contributors: Veera Ihalainen, Julia Mikhailovskaia, Gyeha Lim, Cheng Jun Ang</p>
 
 <h2>Practical</h2>
 <p>required installations: </br> Node (with npm) </p>
