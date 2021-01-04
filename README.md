@@ -2,7 +2,7 @@
 <h4>Spring 2020</h4>
 
 <h2>Practical</h2>
-<p>required installations: </br> npm </p>
+<p>required installations: </br> Node (with npm) </p>
 <p>run with: </br>
   $ npm start</p>
   
